@@ -12,7 +12,7 @@ const container = {
     transition: {
       staggerChildren: 0.2,
     },
-  },
+  }, 
 };
 const child = {
   hidden: { y: 20, opacity: 0 },
